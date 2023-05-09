@@ -1,11 +1,12 @@
 h1 {
-    color: rgb(197, 179, 152);
+    color: rgb(214, 198, 173);
     text-align: center; 
     font-family: Georgia, 'Times New Roman', Times, serif;}
 
 h3 { text-align: left; 
     font-family: Georgia, 'Times New Roman', Times, serif;
-color: rgb(197, 179, 152);}
+color: rgb(214, 198, 173);
+}
 
 
 h3#head {
@@ -28,7 +29,7 @@ p {
 }
 
 body {
-    background-color: rgb(80, 132, 136);
+    background-color: rgb(82, 158, 168);
 }
 
 ul {
